@@ -1,0 +1,15 @@
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.Infrastructure.AssemblyInfo.cs
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\bin\Debug\net9.0\CargoPay.Infrastructure.deps.json
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\bin\Debug\net9.0\CargoPay.Infrastructure.dll
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\bin\Debug\net9.0\CargoPay.Infrastructure.pdb
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\bin\Debug\net9.0\CargoPay.Core.dll
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\bin\Debug\net9.0\CargoPay.Core.pdb
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.2A420390.Up2Date
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.Infrastructure.dll
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\refint\CargoPay.Infrastructure.dll
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\CargoPay.Infrastructure.pdb
+C:\Users\Santi\Documents\Personal\CV\Primo\CargoPay\CargoPay.Infrastructure\obj\Debug\net9.0\ref\CargoPay.Infrastructure.dll
