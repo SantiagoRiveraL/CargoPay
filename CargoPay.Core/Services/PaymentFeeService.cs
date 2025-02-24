@@ -68,7 +68,7 @@ namespace CargoPay.Core.Services
         {
             var currentTime = DateTime.UtcNow;
             // If debugging is needed, the function should be placed in TotalMinutes.
-            if (currentTime.Subtract(_lastUpdate).TotalMinutes >= 1)
+            if (currentTime.Subtract(_lastUpdate).TotalHours >= 1)
             {
                 UpdateFeeRate();
                 _lastUpdate = currentTime;
